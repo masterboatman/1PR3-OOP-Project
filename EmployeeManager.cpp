@@ -1,7 +1,4 @@
-/*Luke Torry 400368090
-Rumi Alkhani 400393290
-Hala Qasim 400352740
-Aidan Cho 400395737*/
+/*Payroll Managment System*/
 
 //_getch() warning ignore
 #pragma warning(disable: 6031)
